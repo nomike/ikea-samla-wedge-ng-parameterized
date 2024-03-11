@@ -1,6 +1,6 @@
-# IKEA SAMLA Tray Insert Wedge Parameterized
+# IKEA SAMLA Tray Insert Wedge Parametric
 
-This is a parameterized remix of https://www.thingiverse.com/thing:3572388.
+This is a parametric remix of https://www.thingiverse.com/thing:3572388.
 
 ## Summary of the original design
 

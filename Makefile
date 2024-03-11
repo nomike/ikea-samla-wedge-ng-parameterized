@@ -1,8 +1,8 @@
 # Parametric OpenSCAD design file
-OPENSCAD_FILE = ikea-samla-wedge-ng-parameterized.scad
+OPENSCAD_FILE = ikea-samla-wedge-ng-parametric.scad
 
 # JSON file containing parameter sets
-PARAMETER_SETS_FILE = ikea-samla-wedge-ng-parameterized.json
+PARAMETER_SETS_FILE = ikea-samla-wedge-ng-parametric.json
 
 # Output directory for generated STL files
 OUTPUT_DIR = output
