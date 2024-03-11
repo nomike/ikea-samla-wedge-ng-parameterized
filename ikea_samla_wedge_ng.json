@@ -1,0 +1,25 @@
+{
+    "parameterSets": {
+        "Samla-Big": {
+            "bottom_x": "37",
+            "bottom_y": "10",
+            "hole_diameter": "5",
+            "oval_y_offset": "10",
+            "oval_z_offset": "25",
+            "top_x": "25",
+            "top_y": "26.5",
+            "total_height": "87"
+        },
+        "Samla-Small": {
+            "bottom_x": "37",
+            "bottom_y": "10",
+            "hole_diameter": "5",
+            "oval_y_offset": "10",
+            "oval_z_offset": "25",
+            "top_x": "25",
+            "top_y": "18",
+            "total_height": "80"
+        }
+    },
+    "fileFormatVersion": "1"
+}
