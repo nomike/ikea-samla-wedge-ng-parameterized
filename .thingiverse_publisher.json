@@ -16,7 +16,9 @@
   },
   "files": [
     "output/ikea-samla-wedge-ng-parametric-Big.stl",
-    "output/ikea-samla-wedge-ng-parametric-Small.stl"
+    "output/ikea-samla-wedge-ng-parametric-Small.stl",
+    "ikea-samla-wedge-ng-parametric.scad",
+    "ikea-samla-wedge-ng-parametric.json"
   ],
   "images": []
 }
