@@ -1,6 +1,6 @@
 {
     "parameterSets": {
-        "Samla-Big": {
+        "Big": {
             "bottom_x": "37",
             "bottom_y": "10",
             "hole_diameter": "5",
@@ -10,7 +10,7 @@
             "top_y": "26.5",
             "total_height": "87"
         },
-        "Samla-Small": {
+        "Small": {
             "bottom_x": "37",
             "bottom_y": "10",
             "hole_diameter": "5",
