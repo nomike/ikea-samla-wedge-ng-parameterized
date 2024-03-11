@@ -13,3 +13,6 @@ This is a parameterized remix of https://www.thingiverse.com/thing:3572388.
 > There is also a cutout to save some material.
 > 
 > I printed in PLA with 2 perimeters and 10% infill. The part is mostly compressed from the side, so it should be sturdy enough.
+
+# GitHub
+https://github.com/nomike/ikea-samla-wedge-ng-parameterized
