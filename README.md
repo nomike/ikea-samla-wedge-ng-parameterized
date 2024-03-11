@@ -1,6 +1,6 @@
 # IKEA SAMLA Tray Insert Wedge Parametric
 
-This is a parametric remix of https://www.thingiverse.com/thing:3572388.
+This is a parametric remix of [IKEA Samla Tray Insert Wedge NG](https://www.thingiverse.com/thing:3572388) by iggyggi.
 
 ## Summary of the original design
 
@@ -15,4 +15,4 @@ This is a parametric remix of https://www.thingiverse.com/thing:3572388.
 > I printed in PLA with 2 perimeters and 10% infill. The part is mostly compressed from the side, so it should be sturdy enough.
 
 # GitHub
-https://github.com/nomike/ikea-samla-wedge-ng-parameterized
+https://github.com/nomike/ikea-samla-wedge-ng-parametric
