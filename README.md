@@ -1,5 +1,3 @@
-#### IKEA SAMLA Tray Insert Wedge Parametric
-
 This is a parametric remix of [IKEA Samla Tray Insert Wedge NG](https://www.thingiverse.com/thing:3572388) by iggyggi.
 
 #### Summary of the original design
@@ -20,4 +18,4 @@ This is a parametric remix of [IKEA Samla Tray Insert Wedge NG](https://www.thin
 
 #### GitHub
 
-<https://github.com/nomike/ikea-samla-wedge-ng-parametric>
+<https://github.com/nomike/parametric-ikea-samla-tray-insert-wedge-ng>
